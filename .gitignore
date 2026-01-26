@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.vite/
+*.log
+
+.env
+.env.*
+
+# runtime data
+src/app/api/data/
+src/app/api/uploads/
+uploads/
+data/
